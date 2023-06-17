@@ -1,6 +1,4 @@
 # first-e-portfolio
-HTML-CSS Practice Portfolio: This is my practice project, serving as an e-portfolio showcasing my progress in HTML and CSS. Explore this single web page, responsive design, and creative experiments as I develop my front-end skills. Join me on this practice journey as I learn, create, and refine my abilities in web development.
-
 **HTML-CSS Practice Portfolio Documentation** ✨
 
 This repository serves as a documentation for my HTML-CSS practice portfolio project. Here, I have created an e-portfolio using only HTML and CSS, showcasing my progress and skills in front-end web development.
@@ -19,7 +17,7 @@ This repository serves as a documentation for my HTML-CSS practice portfolio pro
 
 3. Explore the different HTML and CSS files within the repository to see the implementation details of each project.
 
-4. Open the HTML files in a web browser to view the rendered web pages and experience the responsive designs and creative experiments.
+4. Open the HTML files in a web browser to view the rendered web page and experience the responsive designs and this creative experiment.
 
 **Contributing** 🤝:
 I welcome contributions and suggestions to enhance this practice portfolio project. If you have any improvements, ideas, or bug fixes, please feel free to open an issue or submit a pull request.
