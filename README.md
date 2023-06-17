@@ -13,7 +13,7 @@ This repository serves as a documentation for my HTML-CSS practice portfolio pro
 3. **Creative Experiments** 🎨✨: Dive into creative experiments where I explore unique CSS techniques and effects. From animations to transitions, you will find innovative approaches to enhance the visual appeal and user experience of web pages.
 
 **How to Use** 🚀:
-1. Clone the repository to your local machine using the command: `git clone https://github.com/your-username/html-css-practice-portfolio.git`.
+1. Clone the repository to your local machine using the command: `git clone https://github.com/newman-theinnovator/first-e-portfolio.git`.
 
 2. Open the project directory in your preferred code editor.
 
